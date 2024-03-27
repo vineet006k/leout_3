@@ -1,0 +1,175 @@
+*
+{
+    margin: 0%;
+    padding:0%;
+}
+body
+{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif; 
+}
+.container
+{
+    width: 100%;
+    height: 100%;
+}
+.hade
+{
+    height: 340px;
+    width: 100%;
+    display: flex;
+}
+.left-side
+{
+    width: 800px;
+    display: flex;
+    margin-top: 65px;
+    margin-left: 100px;
+}
+.box
+{
+    margin-top: -20px;
+    height: 55px;
+    width: 55px;   
+    border-top:12px solid rgb(64, 92, 103);
+    border-left:10px solid rgb(64, 92, 103);
+    background-color: rgb(80, 116, 128);
+}
+.compny
+{
+    margin-left: 37px;
+    margin-top: -2px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.right-side
+{
+    height: 440px;
+    width: 370px;
+    background-color: rgba(31, 75, 77, 0.913);
+    z-index: 1;
+    margin-left: -90px;
+    border-bottom-left-radius: 325px;
+    border-bottom-right-radius: 325px;
+}
+
+.compny h1
+{
+    color: rgb(229, 103, 78);
+    font-weight: 700;
+}
+.compny span
+{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:lighter;
+}
+.img
+{
+    margin-top: -120px;
+}
+.right-side h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 50px;
+}
+.text1{
+    background-color:  rgba(31, 75, 77, 0.833);
+    margin-left: 65%;
+    margin-right: 9%;
+    height: 250px;
+    margin-top: -4px;
+}
+.about{
+    font-size: 22;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 10%;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+.pre{
+    font-size: 16;
+    color: white;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 5%;
+    word-spacing: 1px;
+}
+.text2{
+    background-color: rgb(222, 110, 6);
+    margin-left: 65%;
+    margin-right: 9%;
+    height: 250px;
+}
+.contact{
+    font-size: 22;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 10%;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+.mail{
+    background-color: rgb(212, 228, 228);
+    margin-left: 65%;
+    margin-right: 9%;
+    height: 100px;
+}
+.example{
+    font-size: 15;
+    color: rgb(22, 128, 163);
+    text-align: center;
+    padding-top: 10%;
+}
+.left-side2
+{
+    width: 55%;
+}
+.our
+{
+    margin-top: -530px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 450;
+    color: rgb(80, 116, 128);
+}
+.service_1
+{
+    
+    margin-left: 150px;
+    margin-top: -490px;
+    height: 500px;
+}
+.service_1 h1
+{
+    color: rgb(80, 116, 128);
+   font-weight: 700;
+   font-size: 20px;
+}
+.service_1 p
+{
+    margin-top: 5px;
+    font-weight: 100;
+}
+.num
+{
+    margin-left: 30px;
+    width: 100px;
+    margin-top: 70px;
+    height: 500px;
+}
+.num h1
+{
+    font-size: 90px;
+    color: rgb(229, 128, 61);
+}
+.line{
+    height: 15px;
+    width: 100%;
+    background-color: chocolate;
+}
